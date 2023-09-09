@@ -28,7 +28,7 @@
 
 ### 竖向
 
-当你使用竖向的 Swiper 时，请务必通过 `--height` CSS 变量设置一下它的高度，否则 Swiper 的会显示异常。
+当你使用竖向的 Swiper 时，请务必通过 `--height` CSS 变量设置一下它的高度，否则 Swiper 的显示会异常。
 
 <code src="./demos/demo5.tsx"></code>
 
